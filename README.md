@@ -8,13 +8,12 @@ It includes **dynamic BMI range interpretation**, smooth UI components, and real
 
 ## 📑 Table of Contents
 1. [Features](#-features)
-2. [Screenshots](#-screenshots)
-3. [Installation](#-installation)
-4. [Usage](#-usage)
-5. [BMI Formula](#bmi-formula)
-6. [BMI Ranges](#bmi-ranges)
-7. [Technologies Used](#-technologies-used)
-8. [Author](#-author)
+2. [Installation](#-installation)
+3. [Usage](#-usage)
+4. [BMI Formula](#bmi-formula)
+5. [BMI Ranges](#bmi-ranges)
+6. [Technologies Used](#-technologies-used)
+7. [Author](#-author)
 
 ---
 
@@ -24,14 +23,6 @@ It includes **dynamic BMI range interpretation**, smooth UI components, and real
 - **Single tap** for one-step changes and **long press** for continuous updates.
 - Real-time **BMI calculation** and interpretation.
 - Clean, responsive UI design.
-
----
-
-## Screenshots
-
-| Home Screen | Result Screen |
-|-------------|---------------|
-|![Home](https://1drv.ms/i/c/c5b381e6f3108507/EeHCP6-6x5VPgEjdcbF3A0EBylztd4co0upCOeVwLcVowg?e=0jVtjC) | ![Result](https://1drv.ms/i/c/c5b381e6f3108507/EcJkS9j_ctFLn1u7kzbT6cgBCzRROLNFs2N-DgHj99qdtg?e=j1eEvr) |
 
 ---
 
@@ -66,7 +57,7 @@ flutter run
 
 1. Launch the app.
 2. Select your **gender**.
-3. Adjust your **height**, **weight**, and **age** using the + / - buttons.
+3. Adjust your **height** using slider, And adjust **weight**, and **age** using the + / - buttons.
 4. Press **Calculate** to view your BMI and health category.
 5. Review the interpretation and suggested health tips.
 
@@ -94,7 +85,6 @@ $$
 | Underweight | Normal Weight | Overweight  | Obese  |
 | ----------- | ------------- | ----------- | ------ |
 | < 18.5      | 18.5 - 24.9   | 25 - 29.9   | ≥ 30   |
-| < 18.0      | 18.0 - 24.4   | 24.5 - 29.4 | ≥ 29.5 |
 
 ---
 
@@ -112,3 +102,4 @@ $$
 **Sara Yasser**
 
 🔗 GitHub: [SaraYasser28](https://github.com/SaraYasser28)
+
