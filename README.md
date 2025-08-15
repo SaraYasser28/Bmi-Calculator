@@ -28,24 +28,24 @@ It includes **dynamic BMI range interpretation**, smooth UI components, and real
 
 ## Installation
 
-### 1️⃣ Prerequisites
+### 1) Prerequisites
 - Install Flutter SDK.
 - Install Dart.
 - Install an IDE such as Visual Studio Code or Android Studio.
 
-### 2️⃣ Clone the repository
+### 2) Clone the repository
 ```bash
 git clone https://github.com/SaraYasser28/Bmi-Calculator.git
 cd bmi-calculator
 ````
 
-### 3️⃣ Install dependencies
+### 3) Install dependencies
 
 ```bash
 flutter pub get
 ```
 
-### 4️⃣ Run the app
+### 4) Run the app
 
 ```bash
 flutter run
@@ -101,5 +101,6 @@ $$
 **Sara Yasser**
 
 🔗 GitHub: [SaraYasser28](https://github.com/SaraYasser28)
+
 
 
