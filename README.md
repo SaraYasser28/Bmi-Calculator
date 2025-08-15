@@ -1,12 +1,12 @@
 # BMI Calculator App
 
-A modern, interactive **Body Mass Index (BMI) Calculator** built with [Flutter](https://flutter.dev/).  
+A modern, interactive **Body Mass Index (BMI) Calculator** built with Flutter.  
 This app allows users to input their **height**, **weight**, **age**, and **gender** to calculate their BMI.  
 It includes **dynamic BMI range interpretation**, smooth UI components, and real-time updates.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 1. [Features](#-features)
 2. [Installation](#-installation)
 3. [Usage](#-usage)
@@ -29,9 +29,9 @@ It includes **dynamic BMI range interpretation**, smooth UI components, and real
 ## Installation
 
 ### 1️⃣ Prerequisites
-- Install [Flutter SDK](https://docs.flutter.dev/get-started/install)
-- Install [Dart](https://dart.dev/get-dart)
-- Install an IDE such as [Visual Studio Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
+- Install Flutter SDK.
+- Install Dart.
+- Install an IDE such as Visual Studio Code or Android Studio.
 
 ### 2️⃣ Clone the repository
 ```bash
@@ -93,7 +93,6 @@ $$
 * **Flutter** — Cross-platform UI toolkit.
 * **Dart** — Programming language.
 * **Material Design** — UI styling.
-* **Responsive Layouts** — Works on multiple devices.
 
 ---
 
@@ -102,4 +101,5 @@ $$
 **Sara Yasser**
 
 🔗 GitHub: [SaraYasser28](https://github.com/SaraYasser28)
+
 
