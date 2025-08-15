@@ -19,12 +19,11 @@ It includes **dynamic BMI range interpretation**, smooth UI components, and real
 ---
 
 ## Features
-- Select **Male** or **Female** with gender-specific BMI ranges.
+- Select **Male** or **Female**.
 - Input **height**, **weight**, and **age** with easy-to-use increment/decrement buttons.
 - **Single tap** for one-step changes and **long press** for continuous updates.
 - Real-time **BMI calculation** and interpretation.
 - Clean, responsive UI design.
-- Works seamlessly on both **Android** and **iOS**.
 
 ---
 
@@ -111,4 +110,5 @@ $$
 ## Author
 
 **Sara Yasser**
+
 🔗 GitHub: [SaraYasser28](https://github.com/SaraYasser28)
